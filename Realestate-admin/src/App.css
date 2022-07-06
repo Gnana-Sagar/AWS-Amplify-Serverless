@@ -1,0 +1,27 @@
+/* .App {
+  text-align: center;
+} */
+/*  */
+body, html {
+  background-color: #f0f2f5;
+}
+.ant-input-number {
+  width: 100% !important;
+}
+.ant-upload.ant-upload-drag p.ant-upload-drag-icon .anticon {
+  color: #6f6f6f !important;
+}
+.content-ant {
+  margin: 1%;
+  background-color : '#fff';
+}
+
+.ant-layout-header {
+  background-color: #fff !important;
+  padding: 0px;
+}
+@media (min-width: 992px) {
+  .layout-dashboard .header-control .sidebar-toggler {
+    display: none;
+  }
+}
